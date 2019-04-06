@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.vencislav.publication",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.5.0",
+    "applicationType": "monolith",
+    "baseName": "pubdb",
+    "packageName": "com.vencislav.publication",
+    "packageFolder": "com/vencislav/publication",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MGFiMDliNjRlM2RhM2VmNTllMDNkODIyNmViMWNmMzlhZTgyY2YyY2FiNjFjN2VkNGY5ZmFjNTkwOWJhOTA3NzgyNmUyNDZmMjRlNzZhYWE1MWY0YjA1ZTczYTNkYWUyNDYxNjE3MmE2NjY3MWZlZGFiMzcwMzMwNDQ4OTZiMTE=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling",
+      "protractor"
+    ],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "fr"
+    ]
+  }
+}
